@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+h1 {
+    margin-top: 0;
+}
+div {
+    padding: 10px;
+    background-color: #dbe2ef;
+}

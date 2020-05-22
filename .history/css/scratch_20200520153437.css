@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+h1 {
+    margin-top: 0;
+}
+.top_container {
+    background-color: #dbe2ef;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.middle_container {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    left: 201;
+    display: inline-block;
+    position: relative;
+
+}
+.bottom_container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    display: inline-block;
+    left: 401;
+}

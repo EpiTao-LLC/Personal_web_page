@@ -215,7 +215,7 @@ a:hover{
         margin: 0px auto 0 auto;
         font-family: 'Montserrat', sans-serif;
         font-size: 3.25rem;
-        line-height: 1.25;
+        line-height: .5;
         color: #769FCD;
     }
     h2 {

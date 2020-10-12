@@ -239,16 +239,15 @@ a:hover{
     }
     .top-container {
         position: relative;
-        padding-left: 8%;
-        padding-right: 8%;
-        margin-bottom: 10px;
+        margin-left: 15%
+        margin-right 15%;
     }
 
     .middle-container {
         text-align: center;
         position: relative;
-        margin-top: 20px;
-        margin-bottom: 50px;
+        margin-top: 50px;
+        margin-bottom: 10px;
 
     }
     .skills {

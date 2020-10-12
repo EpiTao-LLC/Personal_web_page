@@ -233,7 +233,6 @@ a:hover{
         width: 80%;
         margin: 50px auto 10px auto;
         text-align: center;
-        padding-bottom: 8%;
     }
     .skills {
         margin-top: 0px;
@@ -242,8 +241,8 @@ a:hover{
         position: relative;
         padding-left: 8%;
         padding-right: 8%;
-        padding-bottom: 30%;
-        margin-bottom: 5px;
+        padding-bottom: 20%;
+        margin-bottom: 0px;
 
     }
 

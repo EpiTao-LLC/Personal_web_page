@@ -312,6 +312,7 @@ a:hover{
     }
 
     .bottom-container {
+        display: inline-flex;
         text-align: center;
         margin-top: 0px;
         padding: 15% 0 50px;

@@ -312,9 +312,10 @@ a:hover{
     }
 
     .bottom-container {
+        display: inline-block;
         text-align: center;
         margin-top: 0px;
-        padding: 15% 0 50px;
+        padding: 30% 0 50px;
         font-size: 10px;
         background-color: #769FCD;
         color: #f7fbfc  ;

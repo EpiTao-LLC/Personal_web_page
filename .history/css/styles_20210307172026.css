@@ -171,12 +171,11 @@ a:hover{
     height: 45%;
     float: right;
     margin-left: 30px;
-}
-.skills-img-3 {
+}.skills-img-3 {
     width: 45%;
     height: 45%;
-    float: left;
-    margin-right: 30px;
+    float: right;
+    margin-left: 30px;
 }
 /* .input-button:focus {
     outline: 0;

@@ -175,7 +175,7 @@ a:hover{
 .skills-img-3 {
     width: 45%;
     height: 45%;
-    float: left;
+    float: right;
     margin-right: 30px;
 }
 /* .input-button:focus {

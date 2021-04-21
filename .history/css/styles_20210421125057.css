@@ -294,7 +294,7 @@ a:hover{
         margin-right: 0px;
         margin-bottom: 1rem;
     }
-    .skills-img-1:after, .skills-img-2:after{
+    .skills-img-1:after, .skills-img-2:after, .skills-img3:after{
         display: inline-flex;
         content: '\a\a';
         white-space: pre;
@@ -307,11 +307,6 @@ a:hover{
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 1rem;
-    }
-    .skills-img-1:after, .skills-img-2:after{
-        display: inline-flex;
-        content: '\a\a';
-        white-space: pre;
     }
     .contact-me {
         margin-top: 50px;

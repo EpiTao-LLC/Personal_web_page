@@ -232,12 +232,12 @@ a:hover{
     }
     h2 {
         font-family: 'Montserrat', sans-serif;
-        font-size: 1.5rem;
+        font-size: 1.0rem;
         font-weight: normal;
         color: #769FCD
     }
     h3 {
-        font-size: 1.2rem;
+        font-size: .75rem;
         margin-left: 20px;
         margin-right: 20px;
     }
